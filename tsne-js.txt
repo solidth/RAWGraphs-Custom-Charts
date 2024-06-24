@@ -1,0 +1,32 @@
+
+tSNE Code JS
+============
+
+
+
+o tsne-js
+
+https://github.com/scienceai/tsne-js/
+
+used by InfoVis G2 2018
+
+
+
+
+o tsnejs
+
+https://github.com/karpathy/tsnejs
+
+
+
+
+o Druid
+
+code
+https://github.com/saehm/DruidJS
+
+live demo
+https://renecutura.eu/druid_demo
+
+
+

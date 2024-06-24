@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="rawgraphs-icons" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <rect x="27.0029" y="7.1357" width=".9941" height="38.8643" style="fill: #ad00ff;"/>
+  <polygon points="25.815 9.115 27.5 7.43 29.185 9.115 29.185 7.685 27.5 6 25.815 7.685 25.815 9.115" style="fill: #ad00ff;"/>
+  <rect x="8.5" y="47.0029" width="38.8643" height=".9941" style="fill: #ad00ff;"/>
+  <polygon points="45.385 45.815 47.07 47.5 45.385 49.185 46.815 49.185 48.5 47.5 46.815 45.815 45.385 45.815" style="fill: #ad00ff;"/>
+  <polygon points="10.615 49.185 8.93 47.5 10.615 45.815 9.185 45.815 7.5 47.5 9.185 49.185 10.615 49.185" style="fill: #ad00ff;"/>
+  <rect x="29" y="12" width="12" height="7" style="fill: #ad00ff;"/>
+  <rect x="29" y="20" width="10" height="7" style="fill: #ad00ff;"/>
+  <rect x="29" y="28" width="12" height="7" style="fill: #ad00ff;"/>
+  <rect x="29" y="36" width="8" height="7" style="fill: #ad00ff;"/>
+  <rect x="21" y="12" width="5" height="7" style="fill: #df88ff;"/>
+  <rect x="18" y="20" width="8" height="7" style="fill: #df88ff;"/>
+  <rect x="11" y="28" width="15" height="7" style="fill: #df88ff;"/>
+  <rect x="23" y="36" width="3" height="7" style="fill: #df88ff;"/>
+</svg>

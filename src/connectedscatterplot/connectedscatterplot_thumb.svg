@@ -1,0 +1,798 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="160">
+  <rect width="320" height="160" x="0" y="0" fill="#FFFFFF" id="background"/>
+  <g id="series">
+    <g transform="translate(0,0)">
+      <g transform="translate(5,5)" clip-path="url(#serieClipPath)">
+        <g id="axis">
+          <g transform="translate(0,150)" fill="none" font-size="10" font-family="sans-serif"
+             text-anchor="middle">
+            <path class="domain" stroke="currentColor" d="M0,6V0H310V6"/>
+            <g class="tick" opacity="1" transform="translate(0,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">70,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(22,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">71,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(44,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">72,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(66,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">73,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(89,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">74,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(111,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">75,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(133,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">76,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(155,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">77,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(177,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">78,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(199,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">79,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(221,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">80,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(244,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">81,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(266,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">82,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(288,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">83,000,000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(310,0)">
+              <line stroke="currentColor" y2="6"/>
+              <text fill="currentColor" y="9" dy="0.71em">84,000,000</text>
+            </g>
+            <text x="310" dy="-5" text-anchor="end"
+                  style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">
+              Total_population
+            </text>
+          </g>
+          <g fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
+            <path class="domain" stroke="currentColor" d="M-6,150H0V0H-6"/>
+            <g class="tick" opacity="1" transform="translate(0,150)">
+              <line stroke="currentColor" x2="-6"/>
+              <text fill="currentColor" x="-9" dy="0.32em">−10</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,133)">
+              <line stroke="currentColor" x2="-6"/>
+              <text fill="currentColor" x="-9" dy="0.32em">−8</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,117)">
+              <line stroke="currentColor" x2="-6"/>
+              <text fill="currentColor" x="-9" dy="0.32em">−6</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,100)">
+              <line stroke="currentColor" x2="-6"/>
+              <text fill="currentColor" x="-9" dy="0.32em">−4</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,83)">
+              <line stroke="currentColor" x2="-6"/>
+              <text fill="currentColor" x="-9" dy="0.32em">−2</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,67)">
+              <line stroke="currentColor" x2="-6"/>
+              <text fill="currentColor" x="-9" dy="0.32em">0</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,50)">
+              <line stroke="currentColor" x2="-6"/>
+              <text fill="currentColor" x="-9" dy="0.32em">2</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,33)">
+              <line stroke="currentColor" x2="-6"/>
+              <text fill="currentColor" x="-9" dy="0.32em">4</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,17)">
+              <line stroke="currentColor" x2="-6"/>
+              <text fill="currentColor" x="-9" dy="0.32em">6</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,0)">
+              <line stroke="currentColor" x2="-6"/>
+              <text fill="currentColor" x="-9" dy="0.32em">8</text>
+            </g>
+            <text x="4" text-anchor="start" dominant-baseline="hanging"
+                  style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">
+              Net_migration_rate
+            </text>
+          </g>
+        </g>
+        <g id="viz">
+          <path d="M24,140L19,117L17,103L18,93L21,84L25,76L30,72L36,67L43,62L52,59L62,55L73,53L86,51L99,50L113,49L127,48L140,47L153,47L165,47L174,48L181,49L186,50L191,52L192,54L192,57L190,60L187,64L184,67L181,68L177,69L174,68L171,66L169,62L168,58L167,51L168,44L170,34L175,27L183,21L192,18L202,16L213,16L222,18L230,21L238,26L244,33L249,41L252,48L255,54L256,58L256,60L256,62L254,62L252,61L250,59L249,56L248,52L247,48L248,45L249,42L250,39L252,37L254,34L257,32L260,29L265,26L270,23L276,23L283,27L288,30L294,33L296,35L297,51"
+                stroke="grey" stroke-width="1.5" fill="none" marker-mid="url(#arrow)"
+                marker-end="url(#arrow)"/>
+          <g>
+            <circle cx="24" cy="140" fill="rgb(56, 136, 193)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="19" cy="117" fill="rgb(55, 134, 192)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="17" cy="103" fill="rgb(51, 131, 190)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="18" cy="93" fill="rgb(47, 127, 188)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="21" cy="84" fill="rgb(42, 122, 185)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="25" cy="76" fill="rgb(41, 121, 184)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="30" cy="72" fill="rgb(33, 112, 179)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="36" cy="67" fill="rgb(25, 102, 172)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="43" cy="62" fill="rgb(21, 97, 168)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="52" cy="59" fill="rgb(12, 81, 153)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="62" cy="55" fill="rgb(10, 75, 146)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="73" cy="53" fill="rgb(8, 61, 126)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="86" cy="51" fill="rgb(8, 58, 121)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="99" cy="50" fill="rgb(8, 48, 108)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="113" cy="49" fill="rgb(8, 48, 107)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="127" cy="48" fill="rgb(8, 53, 115)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="140" cy="47" fill="rgb(8, 53, 114)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="153" cy="47" fill="rgb(8, 64, 130)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="165" cy="47" fill="rgb(14, 85, 156)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="174" cy="48" fill="rgb(35, 114, 180)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="181" cy="49" fill="rgb(69, 146, 198)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="186" cy="50" fill="rgb(94, 165, 208)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="191" cy="52" fill="rgb(154, 199, 225)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="192" cy="54" fill="rgb(194, 218, 238)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="192" cy="57" fill="rgb(204, 224, 241)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="190" cy="60" fill="rgb(210, 227, 243)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="187" cy="64" fill="rgb(209, 226, 243)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="184" cy="67" fill="rgb(208, 226, 242)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="181" cy="68" fill="rgb(208, 226, 242)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="177" cy="69" fill="rgb(207, 225, 242)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="174" cy="68" fill="rgb(200, 222, 240)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="171" cy="66" fill="rgb(203, 223, 241)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="169" cy="62" fill="rgb(209, 227, 243)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="168" cy="58" fill="rgb(218, 232, 246)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="167" cy="51" fill="rgb(224, 236, 248)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="168" cy="44" fill="rgb(225, 237, 248)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="170" cy="34" fill="rgb(221, 234, 247)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="175" cy="27" fill="rgb(217, 231, 245)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="183" cy="21" fill="rgb(214, 230, 244)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="192" cy="18" fill="rgb(217, 231, 245)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="202" cy="16" fill="rgb(217, 232, 245)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="213" cy="16" fill="rgb(231, 241, 250)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="222" cy="18" fill="rgb(238, 245, 252)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="230" cy="21" fill="rgb(241, 247, 253)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="238" cy="26" fill="rgb(247, 251, 255)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="244" cy="33" fill="rgb(247, 251, 255)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="249" cy="41" fill="rgb(236, 244, 252)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="252" cy="48" fill="rgb(229, 239, 249)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="255" cy="54" fill="rgb(230, 240, 249)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="256" cy="58" fill="rgb(229, 239, 249)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="256" cy="60" fill="rgb(226, 238, 248)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="256" cy="62" fill="rgb(231, 241, 250)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="254" cy="62" fill="rgb(232, 241, 250)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="252" cy="61" fill="rgb(232, 242, 250)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="250" cy="59" fill="rgb(230, 240, 249)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="249" cy="56" fill="rgb(232, 242, 250)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="248" cy="52" fill="rgb(233, 242, 251)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="247" cy="48" fill="rgb(228, 239, 249)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="248" cy="45" fill="rgb(226, 238, 248)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="249" cy="42" fill="rgb(230, 240, 249)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="250" cy="39" fill="rgb(224, 236, 248)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="252" cy="37" fill="rgb(225, 237, 248)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="254" cy="34" fill="rgb(222, 235, 247)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="257" cy="32" fill="rgb(220, 234, 246)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="260" cy="29" fill="rgb(212, 228, 244)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="265" cy="26" fill="rgb(206, 225, 242)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="270" cy="23" fill="rgb(190, 216, 236)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="276" cy="23" fill="rgb(193, 218, 237)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="283" cy="27" fill="rgb(196, 219, 238)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="288" cy="30" fill="rgb(200, 221, 240)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="294" cy="33" fill="rgb(204, 224, 241)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="296" cy="35" fill="rgb(202, 222, 240)" r="1" stroke="none"/>
+          </g>
+          <g>
+            <circle cx="297" cy="51" fill="rgb(201, 222, 240)" r="1" stroke="none"/>
+          </g>
+          <g id="labels">
+            <g transform="translate(24,140)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(19,117)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(17,103)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(18,93)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(21,84)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(25,76)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(30,72)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(36,67)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(43,62)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(52,59)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(62,55)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(73,53)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(86,51)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(99,50)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(113,49)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(127,48)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(140,47)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(153,47)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(165,47)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(174,48)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(181,49)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(186,50)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(191,52)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(192,54)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(192,57)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(190,60)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(187,64)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(184,67)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(181,68)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(177,69)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(174,68)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(171,66)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(169,62)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(168,58)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(167,51)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(168,44)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(170,34)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(175,27)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(183,21)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(192,18)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(202,16)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(213,16)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(222,18)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(230,21)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(238,26)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(244,33)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(249,41)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(252,48)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(255,54)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(256,58)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(256,60)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(256,62)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(254,62)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(252,61)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(250,59)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(249,56)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(248,52)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(247,48)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(248,45)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(249,42)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(250,39)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(252,37)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(254,34)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(257,32)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(260,29)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(265,26)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(270,23)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(276,23)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(283,27)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(288,30)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(294,33)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(296,35)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+            <g transform="translate(297,51)">
+              <text x="0" y="0" text-anchor="middle" dominant-baseline="text-before-edge"
+                    transform="translate(0,0)">
+                <tspan x="0" y="0" dy="0"/>
+              </text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <defs>
+    <marker id="arrow" refX="4" refY="4" markerWidth="10" markerHeight="10" orient="auto">
+      <path d="M 0 0 8 4 0 8 2 4" style="fill: black;"/>
+    </marker>
+  </defs>
+  <clipPath id="serieClipPath">
+    <rect x="-5" y="-5" width="320" height="160"/>
+  </clipPath>
+</svg>

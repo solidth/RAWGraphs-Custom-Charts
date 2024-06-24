@@ -1,0 +1,35 @@
+<svg id="rawgraphs-icons" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #df88ff;
+      }
+
+      .cls-2 {
+        fill: #ad00ff;
+      }
+
+      .cls-3 {
+        stroke: #521668;
+        stroke-width: 1;
+      }
+    </style>
+  </defs>
+  <!-- Connecting lines -->
+  <g id="lines">
+    <line class="cls-3" x1="31.5" y1="28.5" x2="37.5" y2="15.5"/>
+    <line class="cls-3" x1="37.5" y1="15.5" x2="17" y2="20"/>
+    <line class="cls-3" x1="17" y1="20" x2="22.5" y2="39.5"/>
+    <line class="cls-3" x1="22.5" y1="39.5" x2="41.5" y2="37.5"/>
+  </g>
+  <g id="secondary">
+    <circle class="cls-1" cx="22.5" cy="39.5" r="1.5"/>
+    <circle class="cls-1" cx="17" cy="20" r="3"/>
+    <circle class="cls-1" cx="41.5" cy="37.5" r="2.5"/>
+  </g>
+  <g id="primary">
+    <polygon class="cls-2" points="46.305 46.805 44.865 46.805 46.061 48 8 48 8 9.939 9.195 11.135 9.195 9.695 7.5 8 5.805 9.695 5.805 11.135 7 9.939 7 49 46.061 49 44.865 50.195 46.305 50.195 48 48.5 46.305 46.805"/>
+    <circle class="cls-2" cx="31.5" cy="28.5" r="2"/>
+    <circle class="cls-2" cx="37.5" cy="15.5" r="1.5"/>
+  </g>
+</svg>
