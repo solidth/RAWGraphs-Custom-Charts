@@ -4,7 +4,7 @@ Aumüller Thomas, Heider Martin, Ramadan Abdelrahman
 ## How to make it run
 First clone the git Repository:
 ```
-git clone git@gitlab.tugraz.at:95FD77DBCF078A32/rawgraphs-custom-charts.git
+git clone git@github.com:solidth/RAWGraphs-Custom-Charts.git
 ```
 Browse the folder containing the repository:
 ```
