@@ -46,7 +46,7 @@ http://www.apache.org/licenses/
 ## PCA 
 - PCA.js
 ```
-https://github.com/bitanath/pca`
+https://github.com/bitanath/pca
 ```
 
 MIT License
