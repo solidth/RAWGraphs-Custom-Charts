@@ -118,7 +118,7 @@ JSON-based format that allows users to save and later reload their projects.
 
 ## Tutorial
 
-A small tutorial can be found [here](tutorial\tutorial.md) in the folder  `tutorial\tutorial.md`
+A small tutorial can be found [here](tutorial/tutorial.md) in the folder  `tutorial\tutorial.md`
 
 ## Contribute
 
