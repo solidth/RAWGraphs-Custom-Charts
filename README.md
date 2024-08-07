@@ -28,8 +28,8 @@ How to build and run a local development server for testing IVIS implementation.
 
 Clone those two repositories and install their dependencies:
 ```
-git clone https://github.com/blindguardian50/rawgraphs-charts.git
-git clone https://github.com/blindguardian50/rawgraphs-app.git
+git clone https://github.com/rawgraphs/rawgraphs-app.git
+git clone https://github.com/rawgraphs/rawgraphs-charts.git
 ```
 Open a terminal in the cloned `\rawgraphs-charts` folder and create a build with the command:
 ```
@@ -40,6 +40,8 @@ nvm use 14
 
 yarn install
 npm install
+
+npm run build
 ```
 Then create a link with the command:
 ```
@@ -47,6 +49,8 @@ yarn link
 ```
 Open a terminal in the cloned `\rawgraphs-app` folder:
 ```
+yarn install
+npm install
 yarn link "@rawgraphs/rawgraphs-charts"
 ```
 After that the local development server should be ready to go and you can test it locally by starting the app:
