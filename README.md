@@ -28,8 +28,8 @@ How to build and run a local development server for testing IVIS implementation.
 
 Clone those two repositories and install their dependencies:
 ```
-git clone https://github.com/rawgraphs/rawgraphs-app.git
-git clone https://github.com/rawgraphs/rawgraphs-charts.git
+git clone git@github.com:rawgraphs/rawgraphs-charts.git
+git git@github.com:rawgraphs/rawgraphs-app.git
 ```
 Open a terminal in the cloned `\rawgraphs-charts` folder and create a build with the command:
 ```
