@@ -39,11 +39,11 @@ export const visualOptions = {
         type: 'text',
         label: 'Reduction Method',
         options:  [
-            { label: 't-SNE', value: 'TSNE' },
             { label: 'PCA', value: 'PCA' },
             { label: 'UMAP', value: 'UMAP' },
+            { label: 't-SNE', value: 'TSNE' },
         ],
-        default: 'TSNE',
+        default: 'PCA',
         group: 'Dimensionality Reduction',
     },
 

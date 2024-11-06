@@ -20,6 +20,7 @@ export function render(
     showPoints,
     dotsDiameter,
     drawArrows,
+    arrowSize,
     showLegend,
     legendWidth,
     marginTop,
@@ -128,13 +129,13 @@ export function render(
   if(drawArrows) {
     svg.append("svg:defs").append("svg:marker")
       .attr("id", "arrow")
-      .attr("refX", 6)
-      .attr("refY", 6)
-      .attr("markerWidth", 30)
-      .attr("markerHeight", 30)
+      .attr("refX", arrowSize*2)
+      .attr("refY", arrowSize)
+      .attr("markerWidth", arrowSize*2)
+      .attr("markerHeight", arrowSize*2)
       .attr("orient", "auto")
       .append("path")
-      .attr("d", "M 0 0 12 6 0 12 3 6")
+      .attr("d", `M${arrowSize/2} ${arrowSize} L0 ${arrowSize*2} L${arrowSize*2} ${arrowSize} L0 0 Z`)
       .style("fill", "black")
   }
 
